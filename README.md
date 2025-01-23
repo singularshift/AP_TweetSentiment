@@ -1,6 +1,6 @@
 # AlphaParty_BTC_Sentiment_V1
 
-These files tracks sentiment using Twitter data. The pipeline analyzes tweets in real time or from past data and uses the fine-tuned **RoBERTa sentiment analysis model** (`cardiffnlp/twitter-roberta-base-sentiment-latest`) to classify tweets as **positive**, **neutral**, or **negative**.
+These files track sentiment using Twitter data. The pipeline analyzes tweets in real time or from past data and uses the fine-tuned **RoBERTa sentiment analysis model** (`cardiffnlp/twitter-roberta-base-sentiment-latest`) to classify tweets as **positive**, **neutral**, or **negative**.
 
 ---
 
